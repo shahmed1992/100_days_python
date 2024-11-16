@@ -1,0 +1,5 @@
+List and dictionary comprehensions
+
+eg:
+    list_input = [x for x in range(1, 6)]
+    list1  = [x+1 for x in list_input]
